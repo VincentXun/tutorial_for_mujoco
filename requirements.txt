@@ -1,0 +1,5 @@
+ikpy==3.4.2
+matplotlib
+mujoco==3.3.4
+numpy
+transforms3d
